@@ -47,8 +47,8 @@ I thrive on hands-on projects—whether developing secure applications in C, dep
 
 <p align="center">
   <!-- Replace with your TryHackMe badge URL if available -->
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2231476" style='border:none;
->
+<img src="https://tryhackme-badges.s3.amazonaws.com/JesseTosto.png" alt="Your Image Badge" />
+
 </p>
 
 <p align="center">
