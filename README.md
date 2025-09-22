@@ -9,9 +9,9 @@
 
 ### 👤 About Me
 
-I'm a cybersecurity student with a strong technical foundation in programming, systems development, and threat analysis. My mission is to bridge the gap between security research and real-world defense by building tools that enhance fraud detection, cyber resilience, and security operations.
+I'm a cybersecurity student with a strong technical foundation in programming, systems development, and threat analysis. My mission is to bridge the gap between security research and real-world deployment.
 
-I thrive on hands-on projects—whether developing secure applications in C, deploying SOC infrastructure, or running OSINT and phishing awareness campaigns. My long-term goal is to become a DevSecOps professional working on high-impact security challenges at top-tier firms or agencies.
+I thrive on hands-on projects—whether developing secure applications in C, deploying SOC infrastructure, or running OSINT and phishing awareness campaigns. My long-term goal is to become a DevSecOps professional who builds secure, reliable, and scalable systems.
 
 ---
 
@@ -50,6 +50,16 @@ I thrive on hands-on projects—whether developing secure applications in C, dep
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JesseTej&show_icons=true&theme=radical" alt="Jesse's GitHub stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseTej&layout=compact&theme=radical" alt="Top Languages" height="165">
+</p>
+
+---
+
+### 📈 Python Package Stats
+
+<p align="center">
+  <img src="https://img.shields.io/pypi/v/log-analyzer?label=PyPI%20log-analyzer&color=blue" alt="PyPI Version">
+  <img src="https://img.shields.io/pypi/dm/log-analyzer?label=PyPI%20downloads" alt="PyPI Downloads">
+  <img src="https://img.shields.io/pypi/l/log-analyzer?label=License" alt="PyPI License">
 </p>
 
 ---
