@@ -1,6 +1,3 @@
-## Hi there 👋
-
-
 <!-- JesseTej | Cybersecurity Student | Aspiring DevSecOps Professional -->
 
 <h1 align="center">Hi, I'm Jesse! 👋</h1>
@@ -46,26 +43,22 @@ I thrive on hands-on projects—whether developing secure applications in C, dep
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats  
 
 <p align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2231476" style='border:none;'></iframe>
+  <!-- Replace with your TryHackMe badge URL if available -->
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2231476" style='border:none;
+>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JesseTej&show_icons=true&theme=radical" alt="Jesse's GitHub stats" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseTej&layout=compact&theme=radical" alt="Top Languages" height="165">
 </p>
 
 ---
 
-### 📫 Let’s Connect!
+### 📫 Let’s Connect!  
 
-- <a href="https://linkedin.com/in/jesse-tosto-a303b8259" target="_blank">LinkedIn</a>
+- <a href="https://linkedin.com/in/jesse-tosto-a303b8259" target="_blank">LinkedIn</a>  
 - <a href="mailto:jessetosto@gmail.com" target="_blank">Email</a>
-
----
-
-<p align="center">
-  <em>Building secure foundations for tomorrow’s digital world. 🔐</em>
-</p>
-
-- ⚡ Fun fact: ...
--->
