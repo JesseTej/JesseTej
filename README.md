@@ -30,16 +30,12 @@ I thrive on hands-on projects—whether developing secure applications in C, dep
 
 ### 🚀 Featured Projects
 
-- **[C-based Banking System](#)**  
-  Secure login sessions, password hashing, text-based UI with ANSI codes
-- **[School Management System](#)**  
-  Cross-platform GUI built with C++/wxWidgets
 - **[Modular Log Analyzer](https://github.com/JesseTej/log_analyzer_robust_v2)**  
   Real-time log tailing, search/filter, CSV/JSON export, alerting
 - **[SOC Deployment Project](#)**  
   Full-stack SOC setup using Wazuh, TheHive, and MISP via Docker/Kubernetes
-- **[Cyber Fraud & Risk Assessment Tool](#)**  
-  Questionnaires for banks aligned with NIST CSF 2.0 & ISO/IEC 27001
+- **[Cyber Fraud & Risk Assessment](#)**  
+  Aligned with NIST CSF 2.0 & ISO/IEC 27001
 
 ---
 
