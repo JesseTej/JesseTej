@@ -1,70 +1,106 @@
-<!-- JesseTej | Cybersecurity Student | Aspiring DevSecOps Professional -->
+<!-- JesseTej | Security Engineer | DevSecOps Track -->
 
-<h1 align="center">Hi, I'm Jesse! 👋</h1>
+<h1 align="center">Jesse Tosto</h1>
 <p align="center">
-  <em>Cybersecurity Student | Aspiring DevSecOps Professional | Cyber Fraud & Risk Researcher</em>
+  <strong>Security Analyst | SOC Engineer | DevSecOps Track</strong><br>
+  Building secure systems. Breaking insecure ones.
 </p>
 
 ---
 
-### 👤 About Me
+### 🔥 What I Do
 
-I'm a cybersecurity student with a strong technical foundation in programming, systems development, and threat analysis. My mission is to bridge the gap between security research and real-world deployment.
+I design, deploy, and secure real-world systems.
 
-I thrive on hands-on projects—whether developing secure applications in C, deploying SOC infrastructure, or running OSINT and phishing awareness campaigns. My long-term goal is to become a DevSecOps professional who builds secure, reliable, and scalable systems.
+My work sits at the intersection of:
 
----
+• Security Engineering  
+• SOC Operations & Threat Detection  
+• Secure Software Development  
+• Fraud Risk & Financial Security Research  
 
-### ⚡ Top Skills & Technologies
-
-- **Programming & Development:**  
-  `C` · `Python` · `Java` · `Bash`
-- **Cybersecurity & Networking:**  
-  Kali Linux · Wireshark · PCAP/Disk Image Analysis · OWASP ZAP · GoPhish · Packet Sniffers/Protocol Analyzers
-- **DevSecOps & SOC Tools:**  
-  Docker · Kubernetes · Wazuh · TheHive · MISP
-- **Other Technical Skills:**  
-  Database systems (C-based + GUI) · Log analysis systems · Secure authentication (hashed passwords, login sessions)
+I focus on building systems that are **observable, resilient, and attack-aware by design** — not patched after compromise.
 
 ---
 
-### 🚀 Featured Projects
+### 🧠 Core Competencies
 
-- **[Modular Log Analyzer](https://github.com/JesseTej/log_analyzer_robust_v2)**  
-  Real-time log tailing, search/filter, CSV/JSON export, alerting
-- **[SOC Deployment Project](#)**  
-  Full-stack SOC setup using Wazuh, TheHive, and MISP via Docker/Kubernetes
-- **[Cyber Fraud & Risk Assessment](#)**  
-  Aligned with NIST CSF 2.0 & ISO/IEC 27001
+**Security Engineering**
+- Threat detection engineering
+- Log pipeline architecture
+- SIEM deployment & tuning
+- Incident response workflows
+- PCAP & disk forensics
+
+**DevSecOps & Infrastructure**
+- Docker & Kubernetes deployments
+- Wazuh cluster architecture
+- TheHive & MISP integration
+- Secure CI/CD design principles
+- Linux systems hardening
+
+**Programming**
+- C (low-level systems & protocol tooling)
+- Python (automation, analysis, tooling)
+- Bash (system automation)
+- Java (secure application fundamentals)
+
+**Security Research**
+- Cyber fraud risk modeling
+- NIST CSF 2.0 alignment
+- ISO/IEC 27001 control mapping
+- Phishing awareness simulation campaigns
 
 ---
 
-### 📊 GitHub Stats  
+### 🚀 Selected Projects
+
+#### 🔍 Modular Log Analyzer  
+Real-time log ingestion, filtering, alerting, and export engine.  
+Built for scalable detection engineering and SOC use.
+
+➡ https://github.com/JesseTej/log_analyzer_robust_v2
+
+---
+
+#### 🛡 Full SOC Deployment Lab  
+Deployed Wazuh, TheHive, and MISP using Docker & Kubernetes.  
+Designed detection workflows, alert triage pipelines, and threat intel integration.
+
+---
+
+#### 💳 Cyber Fraud & Risk Assessment Framework  
+Built structured assessment tools aligned to:
+- NIST CSF 2.0
+- ISO/IEC 27001:2022  
+Focused on financial-sector resilience and fraud prevention.
+
+---
+
+### 📊 Activity
 
 <p align="center">
-  <!-- Replace with your TryHackMe badge URL if available -->
-<img src="https://tryhackme-badges.s3.amazonaws.com/JesseTosto.png" alt="Your Image Badge" />
-
+  <img src="https://tryhackme-badges.s3.amazonaws.com/JesseTosto.png" alt="TryHackMe Badge" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JesseTej&show_icons=true&theme=radical" alt="Jesse's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseTej&layout=compact&theme=radical" alt="Top Languages" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=JesseTej&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesseTej&layout=compact&theme=radical" height="165">
 </p>
 
 ---
 
-### 📈 Python Package Stats
+### 📦 Python Package
 
 <p align="center">
-  <img src="https://img.shields.io/pypi/v/log-analyzer?label=PyPI%20log-analyzer&color=blue" alt="PyPI Version">
-  <img src="https://img.shields.io/pypi/dm/log-analyzer?label=PyPI%20downloads" alt="PyPI Downloads">
-  <img src="https://img.shields.io/pypi/l/log-analyzer?label=License" alt="PyPI License">
+  <img src="https://img.shields.io/pypi/v/log-analyzer?label=log-analyzer&color=blue">
+  <img src="https://img.shields.io/pypi/dm/log-analyzer?label=downloads">
+  <img src="https://img.shields.io/pypi/l/log-analyzer?label=license">
 </p>
 
 ---
 
-### 📫 Let’s Connect!  
+### 📬 Contact
 
-- <a href="https://linkedin.com/in/jesse-tosto-a303b8259" target="_blank">LinkedIn</a>  
-- <a href="mailto:jessetosto@gmail.com" target="_blank">Email</a>
+LinkedIn → https://linkedin.com/in/jesse-tosto-a303b8259  
+Email → jessetosto@gmail.com
