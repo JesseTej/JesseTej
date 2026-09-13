@@ -8,7 +8,7 @@
 
 ---
 
-### 🔥 What I Do
+### What I Do
 
 I design, deploy, and secure real-world systems.
 
@@ -23,7 +23,7 @@ I focus on building systems that are **observable, resilient, and attack-aware b
 
 ---
 
-### 🧠 Core Competencies
+### Core Competencies
 
 **Security Engineering**
 - Threat detection engineering
@@ -53,9 +53,9 @@ I focus on building systems that are **observable, resilient, and attack-aware b
 
 ---
 
-### 🚀 Selected Projects
+### Selected Projects
 
-#### 🔍 Modular Log Analyzer  
+#### Modular Log Analyzer  
 Real-time log ingestion, filtering, alerting, and export engine.  
 Built for scalable detection engineering and SOC use.
 
@@ -63,13 +63,13 @@ Built for scalable detection engineering and SOC use.
 
 ---
 
-#### 🛡 Full SOC Deployment Lab  
+####  Full SOC Deployment Lab  
 Deployed Wazuh, TheHive, and MISP using Docker & Kubernetes.  
 Designed detection workflows, alert triage pipelines, and threat intel integration.
 
 ---
 
-#### 💳 Cyber Fraud & Risk Assessment Framework  
+#### Cyber Fraud & Risk Assessment Framework  
 Built structured assessment tools aligned to:
 - NIST CSF 2.0
 - ISO/IEC 27001:2022  
@@ -77,7 +77,7 @@ Focused on financial-sector resilience and fraud prevention.
 
 ---
 
-### 📊 Activity
+###  Activity
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/JesseTosto.png" alt="TryHackMe Badge" />
@@ -90,7 +90,7 @@ Focused on financial-sector resilience and fraud prevention.
 
 ---
 
-### 📦 Python Package
+### Python Package
 
 <p align="center">
   <img src="https://img.shields.io/pypi/v/log-analyzer?label=log-analyzer&color=blue">
@@ -100,7 +100,4 @@ Focused on financial-sector resilience and fraud prevention.
 
 ---
 
-### 📬 Contact
 
-LinkedIn → https://linkedin.com/in/jesse-tosto-a303b8259  
-Email → jessetosto@gmail.com
