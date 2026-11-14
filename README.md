@@ -1,23 +1,28 @@
-<!-- JesseTej | Security Engineer | DevSecOps Track -->
+<!-- JesseTej | SOC Operations & Infrastructure Lead | Detection Engineering | DevSecOps -->
 
 <h1 align="center">Jesse Tosto</h1>
 <p align="center">
-  <strong>Security Analyst | SOC Engineer | DevSecOps Track</strong><br>
+  <strong>SOC Operations & Infrastructure Lead | Detection Engineering | DevSecOps</strong><br>
   Building secure systems. Breaking insecure ones.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jesse-tosto-a303b8259"><img src="https://img.shields.io/badge/LinkedIn-Jesse%20Tosto-0A66C2?logo=linkedin&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Based%20in-Kampala%2C%20Uganda-2fb6a8">
 </p>
 
 ---
 
 ### What I Do
 
-I design, deploy, and secure real-world systems.
+I lead SOC operations and infrastructure at **Milima Technologies**, an MSSP protecting East African financial institutions — SACCOs, payment service providers and banks. I run a seven-person SOC team and teach offensive and defensive security at **Milima Cyber Academy**.
 
 My work sits at the intersection of:
 
-• Security Engineering  
-• SOC Operations & Threat Detection  
+• SOC Engineering & Multi-Tenant Security Monitoring  
+• Detection Engineering & SOAR Automation  
 • Secure Software Development  
-• Fraud Risk & Financial Security Research  
+• Fraud Detection & Financial Security Research  
 
 I focus on building systems that are **observable, resilient, and attack-aware by design** — not patched after compromise.
 
@@ -25,35 +30,61 @@ I focus on building systems that are **observable, resilient, and attack-aware b
 
 ### Core Competencies
 
-**Security Engineering**
-- Threat detection engineering
-- Log pipeline architecture
-- SIEM deployment & tuning
-- Incident response workflows
+**Security Operations**
+- Multi-tenant SIEM architecture (Wazuh + OpenSearch Document Level Security)
+- Detection engineering & alert tuning
+- Threat intel enrichment (MISP, AbuseIPDB, GeoIP)
+- Case management & incident response (DFIR-IRIS)
 - PCAP & disk forensics
 
+**Automation & SOAR**
+- n8n SOAR pipelines (Wazuh → MISP → DFIR-IRIS → Signal)
+- Reusable subworkflow libraries
+- Automated PDF security reporting (FastAPI, WeasyPrint, Jinja2)
+
 **DevSecOps & Infrastructure**
-- Docker & Kubernetes deployments
-- Wazuh cluster architecture
-- TheHive & MISP integration
-- Secure CI/CD design principles
+- Docker Compose & Kubernetes deployments
+- nginx TLS termination & internal PKI
+- WireGuard VPN
 - Linux systems hardening
+- Secure CI/CD design principles
 
 **Programming**
+- Python (automation, ML, analysis, tooling)
 - C (low-level systems & protocol tooling)
-- Python (automation, analysis, tooling)
 - Bash (system automation)
+- JavaScript / React (secure web apps)
 - Java (secure application fundamentals)
 
-**Security Research**
-- Cyber fraud risk modeling
+**Governance & Risk**
+- ISO/IEC 27001:2022 ISMS documentation & control mapping
 - NIST CSF 2.0 alignment
-- ISO/IEC 27001 control mapping
+- Cyber fraud risk modelling
 - Phishing awareness simulation campaigns
 
 ---
 
 ### Selected Projects
+
+#### FraudPP — Real-Time Fraud Detection Platform  
+Multi-tenant fraud detection for East African financial institutions.  
+Hybrid scoring engine (rules + ML + behavioural features) with Africa-specific fraud signals. **0.936 AUC** on PaySim benchmarks. Built to integrate with SACCO core banking systems (Apache Fineract).
+
+➡ https://github.com/JesseTej/fraudpp
+
+---
+
+#### Multi-Tenant MSSP SOC Platform  
+Designed and built a production SOC stack from scratch: Wazuh, OpenSearch, MISP, DFIR-IRIS, n8n and Signal alerting behind nginx TLS and WireGuard.  
+Per-client data isolation through OpenSearch Document Level Security, plus a custom Wazuh → IRIS integration with MISP enrichment and severity-aware alert deduplication.
+
+---
+
+#### n8n SOAR Foundation Library  
+18-subworkflow automation library covering case management, OpenSearch queries and alert delivery.  
+Includes a render sidecar (FastAPI / WeasyPrint / matplotlib) that generates signed periodic security reports for clients.
+
+---
 
 #### Modular Log Analyzer  
 Real-time log ingestion, filtering, alerting, and export engine.  
@@ -63,9 +94,17 @@ Built for scalable detection engineering and SOC use.
 
 ---
 
-####  Full SOC Deployment Lab  
-Deployed Wazuh, TheHive, and MISP using Docker & Kubernetes.  
-Designed detection workflows, alert triage pipelines, and threat intel integration.
+#### Milima CTF Arena (contributor)  
+CTFd-based capture-the-flag platform used for remote, multi-team training events at Milima Cyber Academy.
+
+➡ https://github.com/Sabitix/-milima-ctf
+
+---
+
+#### KukuBiz — Poultry Farm Management App  
+React / Vite / Firebase PWA, packaged for Android. Security-focused build: OAuth sign-in, PBKDF2-hashed PINs, hardened Firestore rules.
+
+➡ https://github.com/JesseTej/KukuBiz
 
 ---
 
@@ -74,6 +113,16 @@ Built structured assessment tools aligned to:
 - NIST CSF 2.0
 - ISO/IEC 27001:2022  
 Focused on financial-sector resilience and fraud prevention.
+
+---
+
+### Certifications & Learning
+
+- TryHackMe Junior Penetration Tester (2024)
+- Web Application Security (2024)
+- TryHackMe SOC Level 1 path — completed
+- 🔄 TryHackMe SOC Level 2 (SAL2) — in progress
+- 🎓 BSc Computer Security & Forensics, UTAMU — in progress (2028)
 
 ---
 
