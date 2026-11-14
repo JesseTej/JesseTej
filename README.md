@@ -66,11 +66,9 @@ I focus on building systems that are **observable, resilient, and attack-aware b
 
 ### Selected Projects
 
-#### FraudPP — Real-Time Fraud Detection Platform  
+#### FraudPP — Real-Time Fraud Detection Platform *(private)*  
 Multi-tenant fraud detection for East African financial institutions.  
 Hybrid scoring engine (rules + ML + behavioural features) with Africa-specific fraud signals. **0.936 AUC** on PaySim benchmarks. Built to integrate with SACCO core banking systems (Apache Fineract).
-
-➡ https://github.com/JesseTej/fraudpp
 
 ---
 
@@ -94,17 +92,20 @@ Built for scalable detection engineering and SOC use.
 
 ---
 
-#### Milima CTF Arena (contributor)  
-CTFd-based capture-the-flag platform used for remote, multi-team training events at Milima Cyber Academy.
+#### Password Generator  
+Python tool for generating strong, configurable passwords.
 
-➡ https://github.com/Sabitix/-milima-ctf
+➡ https://github.com/JesseTej/password_generator_v2
 
 ---
 
-#### KukuBiz — Poultry Farm Management App  
-React / Vite / Firebase PWA, packaged for Android. Security-focused build: OAuth sign-in, PBKDF2-hashed PINs, hardened Firestore rules.
+#### Milima CTF Arena (contributor)  
+CTFd-based capture-the-flag platform used for remote, multi-team training events at Milima Cyber Academy.
 
-➡ https://github.com/JesseTej/KukuBiz
+---
+
+#### KukuBiz — Poultry Farm Management App *(private)*  
+React / Vite / Firebase PWA, packaged for Android. Security-focused build: OAuth sign-in, PBKDF2-hashed PINs, hardened Firestore rules.
 
 ---
 
